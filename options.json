@@ -1,0 +1,23 @@
+{ 
+    "fileLocation": "InputData/",
+    "file2CamCalibration" : "CamCalibration/CamCalibration.txt",
+    "file2MarkedASIC": "markedASICpicture/Marked_ASIC_pads.tif",
+    "file2MarkedASICempty": "markedASICpicture/Marked_ASIC_pads_empty.tif",
+    "file2Process": "Image2Process/input.tif",
+    "imageInPipeline": "fileinprocess.jpg",
+    "fiducialTemplate": "TemplatesForTM/Fiducials_withCorner.jpg",
+    "goldCircleTemplate": "TemplatesForTM/goldpad.jpg",
+    "processingArea": "ProcessingArea/",
+    "outputArea": "OutputData/",
+    "outputAreaPrePro2": "Preprocessed/",
+    "locationEval": "Eval/",
+    "PCAData": "Eval/",
+    "filenameAverageDots": "perfectDots.jpg",
+    "verbose": 0,
+    "output": "OutputData",
+    "result": "Results",
+    "trainingdata": "TrainingSet/",
+    "goodImg": "GoodSet/",
+    "newTrainingset": 1
+}
+
